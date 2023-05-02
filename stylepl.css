@@ -274,3 +274,29 @@ p {
     margin: 0 5px;
     cursor: pointer;
 }
+
+.colors {
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 750px) {
+    .nav {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        margin: 50px 20px 25px 0;
+        padding: 15px;
+        align-items: end;
+    }
+
+    .FontBox {
+        width: 80%;
+    }
+
+    #FCUser {
+        width: 70%;
+    }
+
+    .colors {
+        margin-bottom: -25px;
+    }
+}

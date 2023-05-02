@@ -140,7 +140,6 @@ body {
     background-color: white;
     display: flex;
     flex-direction: row;
-    text-align: center;
     justify-content: center;
 }
 
@@ -166,7 +165,7 @@ a {
 }
 
 #FCUser {
-    width: 500px;
+    width: 40%;
     padding: 10px;
     margin: 10px;
     height: auto;
@@ -367,4 +366,30 @@ p {
     height: 50px;
     margin: 0 5px;
     cursor: pointer;
+}
+
+.colors {
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 750px) {
+    .nav {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        margin: 50px 20px 25px 0;
+        padding: 15px;
+        align-items: end;
+    }
+
+    .FontBox {
+        width: 80%;
+    }
+
+    #FCUser {
+        width: 70%;
+    }
+
+    .colors {
+        margin-bottom: -25px;
+    }
 }
