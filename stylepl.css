@@ -1,0 +1,276 @@
+@font-face {
+    font-family: ArchitectsDaughter;
+    src: url(Fonts/ArchitectsDaughter.ttf);
+}
+
+@font-face {
+    font-family: JosefinSans;
+    src: url(Fonts/JosefinSans.otf);
+}
+
+@font-face {
+    font-family: Pecita;
+    src: url(Fonts/Pecita.otf);
+}
+
+@font-face {
+    font-family: Comfortaa;
+    src: url(Fonts/Comfortaa.ttf);
+}
+
+@font-face {
+    font-family: Aristotelica;
+    src: url(Fonts/Aristotelica.ttf);
+}
+
+@font-face {
+    font-family: Steclo;
+    src: url(Fonts/Steclo.otf);
+}
+
+@font-face {
+    font-family: PoiretOne;
+    src: url(Fonts/PoiretOne.ttf);
+}
+
+@font-face {
+    font-family: Nickainley;
+    src: url(Fonts/Nickainley.otf);
+}
+
+@font-face {
+    font-family: Solena;
+    src: url(Fonts/Solena.otf);
+}
+
+@font-face {
+    font-family: IntroScript;
+    src: url(Fonts/IntroScript.otf);
+}
+
+@font-face {
+    font-family: LaramiePro;
+    src: url(Fonts/LaramiePro.otf);
+}
+
+
+@font-face {
+    font-family: StalemateRegular;
+    src: url(Fonts/StalemateRegular.ttf);
+}
+
+@font-face {
+    font-family: SantElia;
+    src: url(Fonts/SantElia.otf);
+}
+
+@font-face {
+    font-family: Milks;
+    src: url(Fonts/Milks.ttf);
+}
+
+@font-face {
+    font-family: SensalOutline;
+    src: url(Fonts/SensalOutline.ttf);
+}
+
+@font-face {
+    font-family: FuzzyBubbles;
+    src: url(Fonts/FuzzyBubbles.ttf);
+}
+
+@font-face {
+    font-family: SendFlowers;
+    src: url(Fonts/SendFlowers.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.langLinks {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.langLinks>a {
+    margin: 0 10px;
+}
+
+.tit {
+    margin: 0;
+    padding: 5px;
+    width: auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: 'Comfortaa', cursive;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#FCUser {
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    height: auto;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.pa {
+    font-family: 'ArchitectsDaughter';
+    font-size: 36px;
+    color: white;
+}
+
+.pb {
+    font-family: 'JosefinSans';
+    color: white;
+    font-size: 36px;
+}
+
+.pc {
+    font-family: 'Pecita';
+    color: white;
+    font-size: 36px;
+}
+
+.pd {
+    font-family: "Comfortaa";
+    color: white;
+    font-size: 36px;
+}
+
+.pe {
+    font-family: 'StalemateRegular';
+    color: white;
+    font-size: 36px;
+}
+
+.pf {
+    font-family: "Steclo";
+    color: white;
+    font-size: 36px;
+}
+
+.pg {
+    font-family: 'PoiretOne';
+    color: white;
+    font-size: 36px;
+}
+
+.ph {
+    font-family: "Nickainley";
+    color: white;
+    font-size: 36px;
+}
+
+.pi {
+    font-family: 'Solena';
+    color: white;
+    font-size: 36px;
+}
+
+.pj {
+    font-family: 'IntroScript';
+    color: white;
+    font-size: 36px;
+}
+
+.pj {
+    font-family: 'LaramiePro';
+    color: white;
+    font-size: 36px;
+}
+
+.pk {
+    font-family: 'SantElia';
+    color: white;
+    font-size: 36px;
+}
+
+.pl {
+    font-family: 'Milks';
+    color: white;
+    font-size: 36px;
+}
+
+.pm {
+    font-family: 'SensalOutline';
+    color: white;
+    font-size: 36px;
+}
+
+.pn {
+    font-family: 'FuzzyBubbles';
+    color: white;
+    font-size: 36px;
+}
+
+.po {
+    font-family: 'SendFlowers';
+    color: white;
+    font-size: 36px;
+}
+
+.nav {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 25px;
+    padding: 0;
+}
+
+.Box {
+    padding: 15px;
+}
+
+p {
+    margin: 0;
+}
+
+.FontBox {
+    border: 1px solid white;
+    width: 45%;
+    margin-bottom: 25px;
+}
+
+.fontNumber {
+    color: white;
+    margin: 5px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Comfortaa', cursive;
+}
+
+.InputColor {
+    text-align: center;
+    margin: 25px 0 0 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.colorButton {
+    border: 0px solid;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px;
+    cursor: pointer;
+}

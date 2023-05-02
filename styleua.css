@@ -1,0 +1,265 @@
+@font-face {
+    font-family: Rousseau;
+    src: url(Fonts/Rousseau.ttf);
+}
+
+@font-face {
+    font-family: Celestina;
+    src: url(Fonts/Celestina.otf);
+}
+
+@font-face {
+    font-family: Veles;
+    src: url(Fonts/Veles.ttf);
+}
+
+@font-face {
+    font-family: Nickainley;
+    src: url(Fonts/Nickainley.otf);
+}
+
+@font-face {
+    font-family: Solena;
+    src: url(Fonts/Solena.otf);
+}
+
+@font-face {
+    font-family: Comfortaa;
+    src: url(Fonts/Comfortaa.ttf);
+}
+
+@font-face {
+    font-family: Steclo;
+    src: url(Fonts/Steclo.otf);
+}
+
+
+@font-face {
+    font-family: PoiretOne;
+    src: url(Fonts/PoiretOne.ttf);
+}
+
+@font-face {
+    font-family: BadScript;
+    src: url(Fonts/BadScript.ttf);
+}
+
+@font-face {
+    font-family: IntroScript;
+    src: url(Fonts/IntroScript.otf);
+}
+
+@font-face {
+    font-family: LeoHand;
+    src: url(Fonts/LeoHand.ttf);
+}
+
+@font-face {
+    font-family: Romochka;
+    src: url(Fonts/Romochka.otf);
+}
+
+@font-face {
+    font-family: Kobzar;
+    src: url(Fonts/Kobzar.otf);
+}
+
+@font-face {
+    font-family: Milks;
+    src: url(Fonts/Milks.ttf);
+}
+
+@font-face {
+    font-family: BreeCYR;
+    src: url(Fonts/BreeCYR.otf);
+}
+
+@font-face {
+    font-family: SensalOutline;
+    src: url(Fonts/SensalOutline.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.langLinks {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.langLinks>a {
+    margin: 0 10px;
+}
+
+.tit {
+    margin: 0;
+    padding: 5px;
+    width: auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: 'Comfortaa', cursive;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#FCUser {
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    height: auto;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.ua {
+    font-family: 'Rousseau';
+    font-size: 36px;
+    color: white;
+}
+
+.ub {
+    font-family: 'Celestina';
+    color: white;
+    font-size: 36px;
+}
+
+.uc {
+    font-family: 'Veles';
+    color: white;
+    font-size: 36px;
+}
+
+.ud {
+    font-family: "Nickainley";
+    color: white;
+    font-size: 36px;
+}
+
+.ue {
+    font-family: 'Solena';
+    color: white;
+    font-size: 36px;
+}
+
+.uf {
+    font-family: "Comfortaa";
+    color: white;
+    font-size: 36px;
+}
+
+.ug {
+    font-family: 'IntroScript';
+    color: white;
+    font-size: 36px;
+}
+
+.uh {
+    font-family: "Steclo";
+    color: white;
+    font-size: 36px;
+}
+
+.ui {
+    font-family: 'PoiretOne';
+    color: white;
+    font-size: 36px;
+}
+
+.uj {
+    font-family: 'BadScript';
+    color: white;
+    font-size: 36px;
+}
+
+.uk {
+    font-family: 'LeoHand';
+    color: white;
+    font-size: 36px;
+}
+
+.ul {
+    font-family: 'Romochka';
+    color: white;
+    font-size: 36px;
+}
+
+.um {
+    font-family: 'Kobzar';
+    color: white;
+    font-size: 36px;
+}
+
+.un {
+    font-family: 'Milks';
+    color: white;
+    font-size: 36px;
+}
+
+.uo {
+    font-family: 'SensalOutline';
+    color: white;
+    font-size: 36px;
+}
+
+.nav {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 25px;
+    padding: 0;
+}
+
+.Box {
+    padding: 15px;
+}
+
+p {
+    margin: 0;
+}
+
+.FontBox {
+    border: 1px solid white;
+    width: 45%;
+    margin-bottom: 25px;
+}
+
+.fontNumber {
+    color: white;
+    margin: 5px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Comfortaa', cursive;
+}
+
+.InputColor {
+    text-align: center;
+    margin: 25px 0 0 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.colorButton {
+    border: 0px solid;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px;
+    cursor: pointer;
+}

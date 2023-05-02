@@ -1,0 +1,370 @@
+@font-face {
+    font-family: ArchitectsDaughter;
+    src: url(Fonts/ArchitectsDaughter.ttf);
+}
+
+@font-face {
+    font-family: Butterland;
+    src: url(Fonts/Butterland.ttf);
+}
+
+@font-face {
+    font-family: Celestina;
+    src: url(Fonts/Celestina.otf);
+}
+
+@font-face {
+    font-family: Drops;
+    src: url(Fonts/dropstypography-Medium.otf);
+}
+
+
+@font-face {
+    font-family: Gamata;
+    src: url(Fonts/Gamata.otf);
+}
+
+@font-face {
+    font-family: Nickainley;
+    src: url(Fonts/Nickainley.otf);
+}
+
+@font-face {
+    font-family: Pecita;
+    src: url(Fonts/Pecita.otf);
+}
+
+
+@font-face {
+    font-family: Rigolleto;
+    src: url(Fonts/Rigoletto.otf);
+}
+
+@font-face {
+    font-family: Setlist;
+    src: url(Fonts/setlist.ttf);
+}
+
+@font-face {
+    font-family: Solena;
+    src: url(Fonts/Solena.otf);
+}
+
+@font-face {
+    font-family: Veles;
+    src: url(Fonts/Veles.ttf);
+}
+
+@font-face {
+    font-family: Wagnasty;
+    src: url(Fonts/Wagnasty.ttf);
+}
+
+@font-face {
+    font-family: Alvaro;
+    src: url(Fonts/Alvaro.otf);
+}
+
+@font-face {
+    font-family: Blacktone;
+    src: url(Fonts/Blacktone.otf);
+}
+
+@font-face {
+    font-family: Croogla;
+    src: url(Fonts/Croogla.ttf);
+}
+
+@font-face {
+    font-family: Grosella;
+    src: url(Fonts/Grosella.otf);
+}
+
+@font-face {
+    font-family: Hamurz;
+    src: url(Fonts/Hamurz.otf);
+}
+
+@font-face {
+    font-family: Jingadile;
+    src: url(Fonts//Jingadile.otf);
+}
+
+@font-face {
+    font-family: JosefinSans;
+    src: url(Fonts/JosefinSans.otf);
+}
+
+@font-face {
+    font-family: Porto;
+    src: url(Fonts/Porto.ttf);
+}
+
+@font-face {
+    font-family: Rousseau;
+    src: url(Fonts/Rousseau.ttf);
+}
+
+@font-face {
+    font-family: Univermag;
+    src: url(Fonts/Univermag.otf);
+}
+
+@font-face {
+    font-family: LeoHand;
+    src: url(Fonts/LeoHand.ttf);
+}
+
+@font-face {
+    font-family: Romochka;
+    src: url(Fonts/Romochka.otf);
+}
+
+@font-face {
+    font-family: Fredoka;
+    src: url(Fonts/Fredoka.ttf);
+}
+
+@font-face {
+    font-family: Milks;
+    src: url(Fonts/Milks.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.langLinks {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.langLinks>a {
+    margin: 0 10px;
+}
+
+.tit {
+    margin: 0;
+    padding: 5px;
+    width: auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: 'Comfortaa', cursive;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#FCUser {
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    height: auto;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.ea {
+    font-family: 'ArchitectsDaughter';
+    font-size: 36px;
+    color: white;
+}
+
+.eb {
+    font-family: 'Butterland';
+    color: white;
+    font-size: 36px;
+}
+
+.ec {
+    font-family: 'Celestina';
+    color: white;
+    font-size: 36px;
+}
+
+.ed {
+    font-family: 'Drops';
+    color: white;
+    font-size: 36px;
+}
+
+.ee {
+    font-family: 'Gamata';
+    color: white;
+    font-size: 36px;
+}
+
+.ef {
+    font-family: "Nickainley";
+    color: white;
+    font-size: 36px;
+}
+
+.eg {
+    font-family: 'Pecita';
+    color: white;
+    font-size: 36px;
+}
+
+.eh {
+    font-family: "Rigolleto";
+    color: white;
+    font-size: 36px;
+}
+
+.ei {
+    font-family: 'Setlist';
+    color: white;
+    font-size: 36px;
+}
+
+.ej {
+    font-family: 'Solena';
+    color: white;
+    font-size: 36px;
+}
+
+.ek {
+    font-family: 'Veles';
+    color: white;
+    font-size: 36px;
+}
+
+.el {
+    font-family: 'Wagnasty';
+    color: white;
+    font-size: 36px;
+}
+
+.em {
+    font-family: 'Alvaro';
+    color: white;
+    font-size: 36px;
+}
+
+.eo {
+    font-family: 'Croogla';
+    color: white;
+    font-size: 36px;
+}
+
+.eq {
+    font-family: 'Hamurz';
+    color: white;
+    font-size: 36px;
+}
+
+.er {
+    font-family: 'Jingadile';
+    color: white;
+    font-size: 36px;
+}
+
+.es {
+    font-family: 'JosefinSans';
+    color: white;
+    font-size: 36px;
+}
+
+.et {
+    font-family: 'Porto';
+    color: white;
+    font-size: 36px;
+}
+
+.eu {
+    font-family: 'Rousseau';
+    color: white;
+    font-size: 36px;
+}
+
+.ev {
+    font-family: 'Univermag';
+    color: white;
+    font-size: 36px;
+}
+
+.ew {
+    font-family: 'LeoHand';
+    color: white;
+    font-size: 36px;
+}
+
+.ex {
+    font-family: 'Romochka';
+    color: white;
+    font-size: 36px;
+}
+
+.ey {
+    font-family: 'Fredoka';
+    color: white;
+    font-size: 36px;
+}
+
+.ez {
+    font-family: 'Milks';
+    color: white;
+    font-size: 36px;
+}
+
+.nav {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 25px;
+    padding: 0;
+}
+
+.Box {
+    padding: 15px;
+}
+
+p {
+    margin: 0;
+}
+
+.FontBox {
+    border: 1px solid white;
+    width: 45%;
+    margin-bottom: 25px;
+}
+
+.fontNumber {
+    color: white;
+    margin: 5px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Comfortaa', cursive;
+}
+
+.InputColor {
+    text-align: center;
+    margin: 25px 0 0 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.colorButton {
+    border: 0px solid;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px;
+    cursor: pointer;
+}
