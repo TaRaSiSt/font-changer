@@ -185,97 +185,97 @@ a {
 .eb {
     font-family: 'Butterland';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .ec {
     font-family: 'Celestina';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .ed {
     font-family: 'Drops';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .ee {
     font-family: 'Gamata';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .ef {
     font-family: "Nickainley";
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .eg {
     font-family: 'Pecita';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .eh {
     font-family: "Rigolleto";
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .ei {
     font-family: 'Setlist';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .ej {
     font-family: 'Solena';
     color: white;
-    font-size: 36px;
+    font-size: 66px;
 }
 
 .ek {
     font-family: 'Veles';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .el {
     font-family: 'Wagnasty';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .em {
     font-family: 'Alvaro';
     color: white;
-    font-size: 36px;
+    font-size: 56px;
 }
 
 .eo {
     font-family: 'Croogla';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .eq {
     font-family: 'Hamurz';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .er {
     font-family: 'Jingadile';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .es {
     font-family: 'JosefinSans';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .et {
@@ -287,37 +287,37 @@ a {
 .eu {
     font-family: 'Rousseau';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .ev {
     font-family: 'Univermag';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .ew {
     font-family: 'LeoHand';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .ex {
     font-family: 'Romochka';
     color: white;
-    font-size: 36px;
+    font-size: 56px;
 }
 
 .ey {
     font-family: 'Fredoka';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .ez {
     font-family: 'Milks';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .nav {
@@ -340,8 +340,10 @@ p {
 
 .FontBox {
     border: 1px solid white;
-    width: 45%;
+    width: 40%;
     margin-bottom: 25px;
+    display: flex;
+    align-items: center;
 }
 
 .fontNumber {

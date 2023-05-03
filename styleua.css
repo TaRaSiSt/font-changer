@@ -89,7 +89,6 @@ body {
     background-color: white;
     display: flex;
     flex-direction: row;
-    text-align: center;
     justify-content: center;
 }
 
@@ -115,7 +114,7 @@ a {
 }
 
 #FCUser {
-    width: 500px;
+    width: 40%;
     padding: 10px;
     margin: 10px;
     height: auto;
@@ -128,14 +127,14 @@ a {
 
 .ua {
     font-family: 'Rousseau';
-    font-size: 36px;
+    font-size: 42px;
     color: white;
 }
 
 .ub {
     font-family: 'Celestina';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .uc {
@@ -147,13 +146,13 @@ a {
 .ud {
     font-family: "Nickainley";
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .ue {
     font-family: 'Solena';
     color: white;
-    font-size: 36px;
+    font-size: 58px;
 }
 
 .uf {
@@ -165,55 +164,55 @@ a {
 .ug {
     font-family: 'IntroScript';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .uh {
     font-family: "Steclo";
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .ui {
     font-family: 'PoiretOne';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .uj {
     font-family: 'BadScript';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .uk {
     font-family: 'LeoHand';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .ul {
     font-family: 'Romochka';
     color: white;
-    font-size: 36px;
+    font-size: 62px;
 }
 
 .um {
     font-family: 'Kobzar';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .un {
     font-family: 'Milks';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .uo {
     font-family: 'SensalOutline';
     color: white;
-    font-size: 36px;
+    font-size: 32px;
 }
 
 .nav {
@@ -236,8 +235,10 @@ p {
 
 .FontBox {
     border: 1px solid white;
-    width: 45%;
+    width: 40%;
     margin-bottom: 25px;
+    display: flex;
+    align-items: center;
 }
 
 .fontNumber {

@@ -94,7 +94,6 @@ body {
     background-color: white;
     display: flex;
     flex-direction: row;
-    text-align: center;
     justify-content: center;
 }
 
@@ -120,7 +119,7 @@ a {
 }
 
 #FCUser {
-    width: 500px;
+    width: 40%;
     padding: 10px;
     margin: 10px;
     height: auto;
@@ -140,67 +139,67 @@ a {
 .pb {
     font-family: 'JosefinSans';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .pc {
     font-family: 'Pecita';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .pd {
     font-family: "Comfortaa";
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .pe {
     font-family: 'StalemateRegular';
     color: white;
-    font-size: 36px;
+    font-size: 56px;
 }
 
 .pf {
     font-family: "Steclo";
     color: white;
-    font-size: 36px;
+    font-size: 56px;
 }
 
 .pg {
     font-family: 'PoiretOne';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .ph {
     font-family: "Nickainley";
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .pi {
     font-family: 'Solena';
     color: white;
-    font-size: 36px;
+    font-size: 56px;
 }
 
 .pj {
     font-family: 'IntroScript';
     color: white;
-    font-size: 36px;
+    font-size: 66px;
 }
 
 .pj {
     font-family: 'LaramiePro';
     color: white;
-    font-size: 36px;
+    font-size: 52px;
 }
 
 .pk {
     font-family: 'SantElia';
     color: white;
-    font-size: 36px;
+    font-size: 42px;
 }
 
 .pl {
@@ -212,7 +211,7 @@ a {
 .pm {
     font-family: 'SensalOutline';
     color: white;
-    font-size: 36px;
+    font-size: 26px;
 }
 
 .pn {
@@ -224,7 +223,7 @@ a {
 .po {
     font-family: 'SendFlowers';
     color: white;
-    font-size: 36px;
+    font-size: 46px;
 }
 
 .nav {
@@ -247,8 +246,10 @@ p {
 
 .FontBox {
     border: 1px solid white;
-    width: 45%;
+    width: 40%;
     margin-bottom: 25px;
+    display: flex;
+    align-items: center;
 }
 
 .fontNumber {
