@@ -43,6 +43,7 @@ function FontChangePl() {
     document.getElementById("pl").innerHTML = font;
     document.getElementById("pm").innerHTML = font;
     document.getElementById("pn").innerHTML = font;
+    document.getElementById("po").innerHTML = font;
 }
 
 function FontChangeUa() {
