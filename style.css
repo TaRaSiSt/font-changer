@@ -1,4 +1,9 @@
 @font-face {
+    font-family: Comfortaa;
+    src: url(Fonts/Comfortaa.ttf);
+}
+
+@font-face {
     font-family: ArchitectsDaughter;
     src: url(Fonts/ArchitectsDaughter.ttf);
 }
