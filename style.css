@@ -71,18 +71,8 @@
 }
 
 @font-face {
-    font-family: Blacktone;
-    src: url(Fonts/Blacktone.otf);
-}
-
-@font-face {
     font-family: Croogla;
     src: url(Fonts/Croogla.ttf);
-}
-
-@font-face {
-    font-family: Grosella;
-    src: url(Fonts/Grosella.otf);
 }
 
 @font-face {
@@ -377,6 +367,26 @@ p {
 
 .colors {
     margin-bottom: 50px;
+}
+
+.fontList {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    width: 60vw;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.list>li {
+    font-family: Comfortaa;
+    font-size: 42px;
+    width: 30%;
+    margin: 10px;
 }
 
 @media only screen and (max-width: 750px) {
